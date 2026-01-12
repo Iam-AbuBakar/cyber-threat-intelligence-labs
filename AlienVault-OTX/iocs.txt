@@ -1,0 +1,11 @@
+Open Threat Exchange Lab 2 Indicators of Compromise
+
+IP Address
+185.220.101.1
+
+Domains
+mymilitarytravel.com
+berlin01.tor-exit.artikel10.org
+
+Associated IP Address
+72.167.68.133

@@ -1,0 +1,15 @@
+Observed Indicators of compromise
+
+IP Address
+209.38.104.143
+
+Open Ports
+22
+88
+110
+8442
+9999
+
+Services
+Apache httpd
+OpenSSH 8.2p1

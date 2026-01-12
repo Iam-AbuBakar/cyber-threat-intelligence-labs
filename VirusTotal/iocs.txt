@@ -1,0 +1,10 @@
+VirusTotal Lab 1 - Indicators of Compromise
+
+[Domain]
+mymilitarytravel.com
+
+[IP Address]
+185.220.101.1
+
+[File Hash - SHA256]
+275a021bbf6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f

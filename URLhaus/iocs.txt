@@ -1,0 +1,17 @@
+URLhaus Indicators of Compromise
+
+Malicious Host IP
+87.121.84.49
+
+Malicious URLs
+http://87.121.84.49/catgirl.armv6
+http://87.121.84.49/router.linksys.sh
+http://87.121.84.49/router.netgear2.sh
+http://87.121.84.49/router.tenda.sh
+http://87.121.84.49/router.nexxt.sh
+
+Payload Hash SHA256
+b682c0c90c6bf6c9d064da0281b1c5c1c58f583b714898560d7644abb77293fa
+
+Malware Family
+Mirai

@@ -1,0 +1,15 @@
+SOCRadar Indicators of Compromise
+
+IP Address
+185.220.101.1
+
+ASN
+AS60729
+
+Associated Techniques
+T1059
+T1189
+T1210
+T1021
+T1041
+T1595
